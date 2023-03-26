@@ -44,6 +44,6 @@ system("clear"); // Limpar a linha de comando
     exit(0); // caso for 2 você vazou seu safado
     break;
       }
-      } while (true); // enquanto for verdadeiro o valor escolhido e o do é faça então é pra fazer
-goto Menu; // Ah sei lá
+      } while (true); // enquanto for verdadeiro o valor escolhido, estará fazendo (do = faça ou faz)
+goto Menu; // Finalizado
 }
