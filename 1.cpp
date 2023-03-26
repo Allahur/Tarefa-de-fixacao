@@ -54,6 +54,6 @@ cout << "\t\t\t-------- Menu --------\n";
     case 2:
     exit(0); // caso for 2 você vazou 
     } 
-  } while (opcao != 2); // se for diferente de 2 cabou do mesmo jeito
-goto Menu; // ele não vai para o menu, isso é paia, não sei porquê o professor pede ainda isso.
+  } while (opcao != 2); // se for diferente de 2 cabou do mesmo jeito "mas dá erro"
+goto Menu; // Finalizado
 }
