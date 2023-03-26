@@ -1,3 +1,3 @@
-# Não sei
+# Atividade sobre uma tarefa de fixação
 
-#### Professor pediu uns bagui diferenciado então partiu fazer loucura
+#### Professor pediu algo diferenciado então partiu fazer loucura
